@@ -34,6 +34,10 @@ lo cual le permitirá estar al tanto de las noticias y actualizaciones del mismo
 ## Bocetos de interfaz de Usuario
 
 
+![alt text](https://github.com/CichaDex/IntegradorPoo2/blob/master/Bocetos/Page_1.png "Pantalla principal")
+
+![alt text](https://github.com/CichaDex/IntegradorPoo2/blob/master/Bocetos/Page_2.png "Detalle de evento")
+
 
 ## Casos de Uso
 
