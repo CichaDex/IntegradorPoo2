@@ -143,7 +143,12 @@ cuenta que la acción realizada fue una publicación de comentario, y el usuario
 
 ## Arquitectura
 
-- ...
-- ...
-- ...
-- ...
+- HTML5
+- Bootstrap (fw{html5,js, css})
+- Javascript
+- CSS
+- Jquery
+- JSON
+- PHP
+- Laravel(fw{php})
+- SQL
